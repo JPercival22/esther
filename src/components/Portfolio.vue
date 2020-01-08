@@ -28,7 +28,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" :src="require('../assets/img/2019-11-22-20-27-59-273.jpg')" />
+            <img class="img-fluid" :src="require('../assets/img/2019-12-03-21-20-55-527.jpg')" />
           </a>
         </div>
         <div class="col-md-4 col-sm-6 portfolio-item">
@@ -38,7 +38,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" :src="require('../assets/img/2019-11-22-20-27-59-273.jpg')" />
+            <img class="img-fluid" :src="require('../assets/img/2019-12-06-11-23-18-438.jpg')" />
           </a>
         </div>
         <div class="col-md-4 col-sm-6 portfolio-item">
@@ -48,7 +48,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" :src="require('../assets/img/2019-11-22-20-27-59-273.jpg')" />
+            <img class="img-fluid" :src="require('../assets/img/IMG_20191120_105359_295.jpg')" />
           </a>
         </div>
         <div class="col-md-4 col-sm-6 portfolio-item">
@@ -58,7 +58,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" :src="require('../assets/img/2019-11-22-20-27-59-273.jpg')" />
+            <img class="img-fluid" :src="require('../assets/img/IMG_20191122_203045_696.jpg')" />
           </a>
         </div>
         <div class="col-md-4 col-sm-6 portfolio-item">
@@ -68,7 +68,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" :src="require('../assets/img/2019-11-22-20-27-59-273.jpg')" />
+            <img class="img-fluid" :src="require('../assets/img/IMG_20191212_095302_417.jpg')" />
           </a>
         </div>
         <div class="col-md-4 col-sm-6 portfolio-item">
@@ -78,7 +78,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" :src="require('../assets/img/2019-11-22-20-27-59-273.jpg')" />
+            <img class="img-fluid" :src="require('../assets/img/IMG_20191204_154355_364.jpg')" />
           </a>
         </div>
         <div class="col-md-4 col-sm-6 portfolio-item">
@@ -88,7 +88,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" :src="require('../assets/img/2019-11-22-20-27-59-273.jpg')" />
+            <img class="img-fluid" :src="require('../assets/img/IMG_20191204_154355_368.jpg')" />
           </a>
         </div>
         <div class="col-md-4 col-sm-6 portfolio-item">
@@ -98,67 +98,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" :src="require('../assets/img/2019-11-22-20-27-59-273.jpg')" />
-          </a>
-        </div>
-        <div class="col-md-4 col-sm-6 portfolio-item">
-          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
-            <div class="portfolio-hover">
-              <div class="portfolio-hover-content">
-                <i class="fas fa-plus fa-3x"></i>
-              </div>
-            </div>
-            <img class="img-fluid" :src="require('../assets/img/2019-11-22-20-27-59-273.jpg')" />
-          </a>
-        </div>
-        <div class="col-md-4 col-sm-6 portfolio-item">
-          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
-            <div class="portfolio-hover">
-              <div class="portfolio-hover-content">
-                <i class="fas fa-plus fa-3x"></i>
-              </div>
-            </div>
-            <img class="img-fluid" :src="require('../assets/img/2019-11-22-20-27-59-273.jpg')" />
-          </a>
-        </div>
-        <div class="col-md-4 col-sm-6 portfolio-item">
-          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
-            <div class="portfolio-hover">
-              <div class="portfolio-hover-content">
-                <i class="fas fa-plus fa-3x"></i>
-              </div>
-            </div>
-            <img class="img-fluid" :src="require('../assets/img/2019-11-22-20-27-59-273.jpg')" />
-          </a>
-        </div>
-        <div class="col-md-4 col-sm-6 portfolio-item">
-          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
-            <div class="portfolio-hover">
-              <div class="portfolio-hover-content">
-                <i class="fas fa-plus fa-3x"></i>
-              </div>
-            </div>
-            <img class="img-fluid" :src="require('../assets/img/2019-11-22-20-27-59-273.jpg')" />
-          </a>
-        </div>
-        <div class="col-md-4 col-sm-6 portfolio-item">
-          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
-            <div class="portfolio-hover">
-              <div class="portfolio-hover-content">
-                <i class="fas fa-plus fa-3x"></i>
-              </div>
-            </div>
-            <img class="img-fluid" :src="require('../assets/img/2019-11-22-20-27-59-273.jpg')" />
-          </a>
-        </div>
-        <div class="col-md-4 col-sm-6 portfolio-item">
-          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
-            <div class="portfolio-hover">
-              <div class="portfolio-hover-content">
-                <i class="fas fa-plus fa-3x"></i>
-              </div>
-            </div>
-            <img class="img-fluid" :src="require('../assets/img/2019-11-22-20-27-59-273.jpg')" />
+            <img class="img-fluid" :src="require('../assets/img/IMG_20191204_154355_366.jpg')" />
           </a>
         </div>
       </div>

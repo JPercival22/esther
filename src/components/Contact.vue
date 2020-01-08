@@ -13,7 +13,7 @@
             <div class="row">
               <div class="col-md-6">
                 <div class="form-group">
-                  <input class="form-control" id="name" type="text" placeholder="Your Name *" required="required" data-validation-required-message="Please enter your name.">
+                  <input class="form-control" id="name" type="text" placeholder="Your Name *" required="required" data-validation-required-message="Please enter your name." :rules="inputRules">
                   <p class="help-block text-danger"></p>
                 </div>
                 <div class="form-group">
@@ -46,9 +46,23 @@
 </template>
 
 <script>
-export default {
-  
-}
+ const order = new Vue({
+   el: "#contactForm",
+   
+   data: {
+     form: {
+       name:null,
+       email: null,
+       phone: null,
+       message: null
+     }
+   },
+
+   mounted(){
+     alert('yes');
+   }
+ });
+
 </script>
 
 <style lang="sass">
