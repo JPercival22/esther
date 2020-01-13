@@ -11,6 +11,7 @@
         </div>
       </div>
       <div class="row">
+        
         <div class="col-md-4 col-sm-6 portfolio-item">
           <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
             <div class="portfolio-hover">
@@ -18,7 +19,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" :src="require('../assets/img/2019-11-22-20-27-59-273.jpg')" />
+            <img class="img-fluid"  :src="require('../assets/img/2019-12-03-21-20-55-527.jpg')" />
           </a>
         </div>
         <div class="col-md-4 col-sm-6 portfolio-item">
@@ -28,7 +29,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" :src="require('../assets/img/2019-12-03-21-20-55-527.jpg')" />
+            <img class="img-fluid" :src="require('../assets/img/2019-11-22-20-27-59-273.jpg')" />
           </a>
         </div>
         <div class="col-md-4 col-sm-6 portfolio-item">
